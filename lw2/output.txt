@@ -1,0 +1,5 @@
+  F  F
+  s0 s1 s2
+a s0 s2 s0
+b s1 -  s1
+

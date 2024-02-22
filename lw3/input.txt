@@ -1,0 +1,5 @@
+right
+S -> 1S | eB
+B -> 1B | 1C
+C -> 1C | #H
+H ->
